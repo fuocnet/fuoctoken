@@ -1,0 +1,9 @@
+{
+  "name": "fuoctoken",
+  "version": "0.1.0",
+  "description": "Smartcontracts for Fuoc Token",
+  "main": "index.js",
+  "repository": "git@github.com:fuocnetwork/fuoctoken.git",
+  "author": "fuocnetwork <ramdan@fuoc.space>",
+  "license": "GPL-3.0"
+}
